@@ -4,16 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there%2C+I'm+Panha+👋;Full-Stack+Web+Developer;2nd+Year+CS+Student;Building+EzioBlog..." alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me
+👨‍💻 About Me
+
 I'm Panha, a 2nd-year Computer Science student and aspiring Full-Stack Developer from Cambodia 🇰🇭. I don't just write code; I’m a student of software architecture and logic, always looking for the most efficient way to structure a project.
 
-    🔭 Building for Impact: Currently developing EzioBlog and a custom Utility Meter Tracking App to digitize my mother’s business operations.
-
-    🛡️ Security Mindset: When I'm not building apps, I’m tackling wargames on OverTheWire to sharpen my cybersecurity and hacking skills.
-
-    🎙️ Future Educator: I'm planning a YouTube channel to break down complex architectural concepts for the Cambodian tech community.
-
-    🧠 Beyond the Code: I'm a fan of mental models, psychology, and the occasional emotional masterpiece like The Green Mile.**Fun Fact:** I believe clean code is a love letter to the next developer.
+* 🔭 **Building for Impact:** Currently developing EzioBlog and a custom Utility Meter Tracking App to digitize my mother’s business operations.
+* 🛡️ **Security Mindset:** When I'm not building apps, I’m tackling wargames on OverTheWire to sharpen my cybersecurity and hacking skills.
+* 🐚 **Future Educator:** I'm planning a YouTube channel to break down complex architectural concepts for the Cambodian tech community.
+* 🧠 **Beyond the Code:** I'm a fan of mental models, psychology, and the occasional emotional masterpiece like The Green Mile.
 
 ---
 
