@@ -5,12 +5,15 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a passionate **Junior Software Developer** from **Cambodia 🇰🇭**. I love turning complex problems into simple, beautiful, and intuitive designs. Currently leveling up my skills in modern web architectures and building cool stuff for the web.
+I'm Panha, a 2nd-year Computer Science student and aspiring Full-Stack Developer from Cambodia 🇰🇭. I don't just write code; I’m a student of software architecture and logic, always looking for the most efficient way to structure a project.
 
-- 🔭 **Currently working on:** [EzioBlog](https://github.com/Sopanha9) (School Project)
-- 🌱 **Learning Path:** Java, Express.js, and Django deep-dives.
-- 💬 **Ask me about:** Web Dev, API integration, and CSS fixing.
-- ⚡ **Fun Fact:** I believe clean code is a love letter to the next developer.
+    🔭 Building for Impact: Currently developing EzioBlog and a custom Utility Meter Tracking App to digitize my mother’s business operations.
+
+    🛡️ Security Mindset: When I'm not building apps, I’m tackling wargames on OverTheWire to sharpen my cybersecurity and hacking skills.
+
+    🎙️ Future Educator: I'm planning a YouTube channel to break down complex architectural concepts for the Cambodian tech community.
+
+    🧠 Beyond the Code: I'm a fan of mental models, psychology, and the occasional emotional masterpiece like The Green Mile.**Fun Fact:** I believe clean code is a love letter to the next developer.
 
 ---
 
