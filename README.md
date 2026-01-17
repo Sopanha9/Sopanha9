@@ -1,7 +1,7 @@
 # ⚡ Welcome to my Digital Space! 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there%2C+I'm+Panha+👋;Full-Stack+Web+Developer;2nd+Year+CS+Student;Building+EzioBlog..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there%2C+I'm+Panha+👋;Full-Stack+Web+Developer;2nd+Year+CS+Student;Building+PanhaInsight..." alt="Typing SVG" />
 </p>
 
 👨‍💻 About Me
