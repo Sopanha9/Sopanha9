@@ -8,7 +8,7 @@
 
 I'm Panha, a 2nd-year Computer Science student and aspiring Full-Stack Developer from Cambodia 🇰🇭. I don't just write code; I’m a student of software architecture and logic, always looking for the most efficient way to structure a project.
 
-* 🔭 **Building for Impact:** Currently developing johnDLearner and a custom Utility Meter Tracking App to digitize my mother’s business operations.
+* 🔭 **Building for Impact:** Currently developing booking movies system and revives dogehouse with the team.
 * 🛡️ **Security Mindset:** When I'm not building apps, I’m tackling wargames on OverTheWire to sharpen my cybersecurity and hacking skills.
 * 🐚 **Future Educator:** I'm planning a YouTube channel to break down complex architectural concepts for the Cambodian tech community.
 * 🧠 **Beyond the Code:** I'm a fan of mental models, psychology, and the occasional emotional masterpiece like The Green Mile.
