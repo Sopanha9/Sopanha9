@@ -65,13 +65,6 @@ I'm **Panha**, a 3rd-year Computer Science student and aspiring Full-Stack Devel
 </p>
 
 <!-- 🔥 Streak Stats — Add this! -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sopanha9&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sopanha9&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
-</p>
 
 ---
 
