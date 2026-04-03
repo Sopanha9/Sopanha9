@@ -3,6 +3,21 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there%2C+I'm+Panha+👋;Full-Stack+Web+Developer;2nd+Year+CS+Student;Building+PanhaInsight..." alt="Typing SVG" />
 </p>
+<img
+    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=R3zio&textBg=false&section=header&reversal=false" />
+    
+<p align="center" margin="0">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Welcome+to+my+profile+👋;我+是+明智+⚡;Full-Stack+Web+Developer.;3rd+Year+CSE+Student.;"
+        alt="Typing SVG" />
+</p>
+
+<p align="center">
+    <a href="https://komarev.com/ghpvc/?username=rezio23">
+        <img src="https://komarev.com/ghpvc/?username=sopanha9p&label=Profile%20views&color=00FFFF&style=flat-square"
+            alt="panhadev" />
+    </a>
+</p>
+
 
 ## 👨‍💻 About Me
 
