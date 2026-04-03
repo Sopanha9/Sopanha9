@@ -1,6 +1,5 @@
 # Welcome to my Digital WorkSpace!
 
-
 <img
     src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Panha&textBg=false&section=header&reversal=false" />
     
@@ -19,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Panha**, a 2nd-year Computer Science student and aspiring Full-Stack Developer from Cambodia 🇰🇭. I don't just write code — I'm a student of software architecture and logic, always looking for the most efficient way to structure a project.
+I'm **Panha**, a 3rd-year Computer Science student and aspiring Full-Stack Developer from Cambodia 🇰🇭. I don't just write code — I'm a student of software architecture and logic, always looking for the most efficient way to structure a project.
 
 - 🔭 **Building for Impact:** Currently developing a movie booking system and reviving dogehouse with my team.
 - 🛡️ **Security Mindset:** When I'm not building apps, I'm tackling wargames on OverTheWire to sharpen my cybersecurity skills.
