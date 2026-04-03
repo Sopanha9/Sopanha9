@@ -4,7 +4,7 @@
     src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Panha&textBg=false&section=header&reversal=false" />
     
 <p align="center" margin="0">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Welcome+to+my+profile+👋;我+是+明智+;Full-Stack+Web+Developer.;3rd+Year+CSE+Student.;"
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Welcome+to+my+profile+👋;我+叫+明智+;Full-Stack+Web+Developer.;3rd+Year+CSE+Student.;"
         alt="Typing SVG" />
 </p>
 
