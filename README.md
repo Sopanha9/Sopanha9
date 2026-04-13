@@ -39,10 +39,10 @@
 <br />
 
 <!-- ⚠️ Replace with YOUR OWN snake action output — see instructions below -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Sopanha9/Sopanha9/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sopanha9&label=Profile%20views&color=0e75b6&style=flat-square" alt="sopanha9" />
-</p>
+</p> -->
