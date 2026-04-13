@@ -16,47 +16,6 @@
 </p>
 
 
-## 👨‍💻 About Me
-
-I'm **Panha**, a 3rd-year Computer Science student and aspiring Full-Stack Developer from Cambodia 🇰🇭. I don't just write code — I'm a student of software architecture and logic, always looking for the most efficient way to structure a project.
-
-- 🔭 **Building for Impact:** Currently developing a movie booking system and reviving dogehouse with my team.
-- 🛡️ **Security Mindset:** When I'm not building apps, I'm tackling wargames on OverTheWire to sharpen my cybersecurity skills.
-- 🐚 **Future Educator:** Planning a YouTube channel to break down complex architectural concepts for the Cambodian tech community.
-- 🧠 **Beyond the Code:** Fan of mental models, psychology, and emotional masterpieces like The Green Mile.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <strong>Frontend</strong><br/>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=flat&logo=bootstrap&logoColor=white" />
-    </td>
-    <td valign="top" width="33%">
-      <strong>Backend</strong><br/>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
-    </td>
-    <td valign="top" width="33%">
-      <strong>Database / Other</strong><br/>
-      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
