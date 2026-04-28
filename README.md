@@ -14,7 +14,7 @@
             alt="panhadev" />
     </a>
 </p>
----
+
 ### 📌 Pinned Projects
 
 <table>
