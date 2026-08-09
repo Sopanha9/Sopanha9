@@ -1,25 +1,9 @@
-# Welcome to my Digital WorkSpace!
-
-<!-- <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Panha&textBg=false&section=header&reversal=false" />
-    
-<p align="center" margin="0">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&fontweight=2400&center=true&pause=500&color=00FFFF&lines=Welcome+to+my+profile+👋;我+叫+明智+;Full-Stack+Web+Developer.;3rd+Year+CSE+Student.;"
-        alt="Typing SVG" />
-</p>
-
-<p align="center">
-    <a href="https://komarev.com/ghpvc/?username=Panha">
-        <img src="https://komarev.com/ghpvc/?username=sopanha9p&label=Profile%20views&color=00FFFF&style=flat-square"
-            alt="panhadev" />
-    </a>
-</p> -->
 
 <div align="center">
     <img width=300 src="./assets/main.gif"/>    
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+DIMFLIX!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+JOHN!" alt="Typing SVG" /></a>
 </div>
 
 
