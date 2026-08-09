@@ -1,15 +1,15 @@
 
 <div align="center">
-    <img width=300 src="./assets/main.gif"/>    
+    <img width=300 src="/main.gif"/>
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+JOHN!" alt="Typing SVG" /></a>
 </div>
 
 
-### 📌 Pinned Projects
+<!-- ### 📌 Pinned Projects -->
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
       <h3>🎬 <a href="https://cinematism.vercel.app">Cinematism</a></h3>
@@ -70,7 +70,7 @@
       <img src="https://img.shields.io/badge/Web_App-E6F1FB?style=flat-square" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ### 📊 GitHub Analytics
 
@@ -79,7 +79,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sopanha9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<!-- 🔥 Streak Stats — Add this! -->
 
 ---
 
