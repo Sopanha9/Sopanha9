@@ -1,6 +1,6 @@
 # Welcome to my Digital WorkSpace!
 
-<img
+<!-- <img
     src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Panha&textBg=false&section=header&reversal=false" />
     
 <p align="center" margin="0">
@@ -13,6 +13,12 @@
         <img src="https://komarev.com/ghpvc/?username=sopanha9p&label=Profile%20views&color=00FFFF&style=flat-square"
             alt="panhadev" />
     </a>
+</p> -->
+
+<p align="center">
+    <img width="640" alt="Panha." src="https://raw.githubusercontent.com/Sopanha9/github-readme-terminal/main/docs/assets/logo.png">
+    <br>
+    <b>✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀</b>
 </p>
 
 ### 📌 Pinned Projects
