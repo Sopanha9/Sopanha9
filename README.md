@@ -16,7 +16,7 @@
 </p> -->
 
 <p align="center">
-    <img width="640" alt="我是 潘智宇" src="https://raw.githubusercontent.com/x0rzavi/github-readme-terminal/main/docs/assets/logo.png">
+    <img width="640" alt="githubReadme" src="https://raw.githubusercontent.com/x0rzavi/我是 潘智宇/main/docs/assets/logo.png">
     <br>
     <b>✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀</b>
 </p>
