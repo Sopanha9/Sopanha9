@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=500 src="./assets/git.png"/>
+    <img width=800 src="./assets/git.png"/>
 </div>
 
 <h1 align="center" style="font-family: 'Segoe UI', 'Trebuchet MS', 'Arial', sans-serif; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; color: #f5f7fa;">I'm John.</h1>
