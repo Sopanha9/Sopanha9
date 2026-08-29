@@ -26,7 +26,7 @@ I'm a **Computer Science student** who enjoys figuring out how things work benea
 
 Currently exploring:
 
-`Spring Boot` `Flutter` `PostgreSQL` `Docker` `Linux`
+`Spring Boot` `Flutter` `PostgreSQL` `Docker` `TypeScript` 
 
 I learn best by building things, breaking them, and figuring out why they broke.
 
