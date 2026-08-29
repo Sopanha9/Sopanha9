@@ -88,7 +88,7 @@ I learn best by building things, breaking them, and figuring out why they broke.
 <h2 align="center" style="font-family: 'Segoe UI', 'Trebuchet MS', sans-serif; letter-spacing: 0.06em;">Connect</h2>
 
 <p align="center">
-  <a href="YOUR_FACEBOOK_URL"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=flat-square&logo=facebook&logoColor=white" width="110"></a>&nbsp;<a href="https://www.tiktok.com/@nhasenpai01"><img src="https://img.shields.io/badge/TIKTOK-000000?style=flat-square&logo=tiktok&logoColor=white" width = "90"></a>&nbsp;<a href="YOUR_TELEGRAM_URL"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=flat-square&logo=telegram&logoColor=white" width="110"></a>&nbsp;<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" width="85"></a>
+  <a href="YOUR_FACEBOOK_URL"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=flat-square&logo=facebook&logoColor=white" width="110"></a>&nbsp;<a href="https://www.tiktok.com/@nhasenpai01"><img src="https://img.shields.io/badge/TIKTOK-000000?style=flat-square&logo=tiktok&logoColor=white" width = "90"></a>&nbsp;<a href="t.me/@S_Pnha"><img src="https://img.shields.io/badge/TELEGRAM-000000?style=flat-square&logo=telegram&logoColor=white" width="110"></a>&nbsp;<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" width="85"></a>
 </p>
 
 > **I build not because I know how, but because I want to find out.**
