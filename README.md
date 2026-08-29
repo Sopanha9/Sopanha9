@@ -66,7 +66,7 @@ I learn best by building things, breaking them, and figuring out why they broke.
 
 <h2>Cinematism</h2>
 
-<a href="cinematism.vercel.app">
+<a href="https://cinematism.vercel.app">
   <img src="https://img.shields.io/badge/GitHub-Cinematism-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
